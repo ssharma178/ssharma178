@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ssharma178
+- 👀 I’m interested in Front End Development and learning new technologies.
+- 🌱 I’m currently learning JavaScript, React.
+- 📫 Can be contacted by email (sanya.sharma@rocketmail.com). 
